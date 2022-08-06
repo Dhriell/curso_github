@@ -3,3 +3,6 @@ apple
 tanks
 amil
 espro
+google 
+apple
+tesla

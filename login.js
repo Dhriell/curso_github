@@ -1,9 +1,3 @@
-
-
-function login(nome, email){
-    return 'Bem-Vindo!'
-}
-
-function deuerrado(){
-    alert('Status')
-}
+// Teste na branch
+// Arumando sistema de login
+// Do curso de git
